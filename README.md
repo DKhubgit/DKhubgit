@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/103972201/196051920-34f50706-f3a2-4050-ab24-f05a9f4ad862.png)
 
 <!--
 **DKhubgit/DKhubgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
