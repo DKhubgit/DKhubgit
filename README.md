@@ -4,6 +4,16 @@ Welcome to my Github Profile~
 
 I am currently a student in the UCR coding Bootcamp program learning many intricate languages and concepts of web development. Looking to creating new websites/application and excited to work out solutions for people 😄. 
 
+- 🌱 I’m currently learning MERN stack applications!
+- 💬 Ask me about Super Smash Bros Ultimate!
+
+## Stats
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKhubgit" />
+
+</div>
+
+
 <!--
 **DKhubgit/DKhubgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
