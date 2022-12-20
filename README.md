@@ -2,10 +2,10 @@
 
 Welcome to my Github Profile~
 
-I am a Junior Web Developer looking to creating new websites/application and excited to work out solutions for people 😄. Currently on track to get a certificate from the UCR coding Bootcamp.
+I am a Web Developer looking to creating new websites/application and excited to work out solutions for people 😄. Recently graduated from the UCR coding bootcamp and looking to find a career/job in the software developing field. 
 
-- 🌱 I’m currently learning MERN stack applications!
-- 💬 Ask me about Super Smash Bros Ultimate!
+- 🌱 I’m currently working on finding a full-time job!
+- 💬 Ask me about Super Smash Bros Ultimate and games in general!
 - 📫 How to reach me: danielkang13@gmail.com
 
 ## Tech Skills
